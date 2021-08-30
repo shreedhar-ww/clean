@@ -38,5 +38,8 @@ namespace GloboTicket.TicketManagement.Application.UnitTests.Categories.Commands
             var allCategories = await _mockCategoryRepository.Object.ListAllAsync();
             allCategories.Count.ShouldBe(5);
         }
+
+
+        //
     }
 }
