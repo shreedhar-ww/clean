@@ -43,6 +43,7 @@ namespace GloboTicket.TicketManagement.Application.UnitTests.Categories.Queries
 
             result.ShouldBeOfType<Response<IEnumerable<CategoryListVm>>>();
 
+
         }
     }
 }
