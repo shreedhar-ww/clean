@@ -1,5 +1,3 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=acpkhan85_clean&metric=alert_status)](https://sonarcloud.io/dashboard?id=acpkhan85_clean)
-
 # Rest-Dot-Net-core
 
 This is a solution template for creating a Single Page App (SPA) with Angular and ASP.NET Core following the principles of Clean Architecture. 

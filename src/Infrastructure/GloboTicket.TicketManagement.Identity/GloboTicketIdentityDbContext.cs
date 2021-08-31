@@ -8,7 +8,6 @@ namespace GloboTicket.TicketManagement.Identity
     {
         public GloboTicketIdentityDbContext(DbContextOptions<GloboTicketIdentityDbContext> options) : base(options)
         {
-        } 
-        
+        }
     }
 }
